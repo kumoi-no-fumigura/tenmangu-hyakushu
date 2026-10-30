@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tenmangu-hyakushu",
  "yomi": "てんまんぐうえいぜんひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "未詳",
+  "author": "児山紀成",
+  "desc": "天満宮の神前に奉った百首。春・夏・秋・冬・恋・雑の題を並べ、「社祝」で結ぶ。"
+ },
  "editions": [
   {
    "pid": "993388",
