@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 5,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zokukagaku10-tenmangu-hyakushu-0001",
@@ -1231,6 +1234,7 @@
   "poems": 103,
   "editions": 1,
   "updated": "2026-11-02",
-  "updated_at": "2026-11-02T11:41:27+09:00"
+  "updated_at": "2026-11-02T11:41:27+09:00",
+  "yaku": 5
  }
 }
